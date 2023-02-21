@@ -1,0 +1,45 @@
+#logo {
+    width: 200px;
+
+  }
+
+#header {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        width: 100%;
+       
+        
+        position: relative;
+        border-bottom: 3px solid gray;
+        padding-bottom: 20px;
+        padding-top: 20px;
+        
+}
+#navbar {
+    display: flex;
+    margin-right: 30px;
+}
+
+li {
+    margin-right: 20px;
+    text-decoration: none;
+    list-style-type: none;
+    font-size: 35px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#btnMode {
+    position: absolute;
+    top: 0;
+    right: 0;
+    margin: 20px;
+}
+.switch {
+    display: flex;
+    width: 100vw;
+    height: 100px;
+    justify-content: center;
+    
+}
+

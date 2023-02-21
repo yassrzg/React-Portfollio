@@ -1,0 +1,24 @@
+#light {
+    background-color: beige;
+    color: black;
+}
+
+#dark {
+    background: black;
+    color: white;
+}
+.switch {
+    position: absolute;
+    bottom: 810px;
+    right: -550px;
+    margin: 20px 20px 0 20px;
+}
+
+label {
+    margin-right: 15px;
+}
+body {
+    margin: 0;
+    overflow-x: hidden;
+    width: 100%;
+}
